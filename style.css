@@ -197,6 +197,9 @@ section {
     width: 400px;
     margin: auto 0;
 }
+.about-paragraph {
+    text-align: center;
+}
 
 /* EXPERIENCE SECTION */
 #experience {position: relative;}
